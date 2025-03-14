@@ -8,4 +8,4 @@ This project showcases an interactive Excel dashboard designed to analyze and vi
 ✅ Interactive Dashboards with slicers and filters
  Project Files
 📂 Dashboard.xlsx – Main interactive dashboard
-📂 Raw_Data.xlsx – Source dataset before cleaninG
+📂 Raw_Data.xlsx – Source dataset before cleaning
