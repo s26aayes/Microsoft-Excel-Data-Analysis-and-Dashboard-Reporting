@@ -1,5 +1,7 @@
 # Microsoft-Excel-Data-Analysis-and-Dashboard-Reporting
 This project showcases an interactive Excel dashboard designed to analyze and visualize data efficiently. It includes data cleaning, transformation, and visualization techniques to present key insights.
+
+![image alt](https://github.com/s26aayes/Microsoft-Excel-Data-Analysis-and-Dashboard-Reporting/blob/main/Excel%20dashboard.png)
 📌 Features & Tools Used
 ✅ Advanced Excel Functions (LOOKUP, IF, INDEX-MATCH)
 ✅ Pivot Tables & Pivot Charts for dynamic reporting
